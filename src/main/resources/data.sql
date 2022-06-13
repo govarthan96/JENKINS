@@ -1,0 +1,11 @@
+INSERT INTO country (name,capital) VALUES  ('India','New Delhi');
+INSERT INTO country (name,capital) VALUES  ('Afghanistan','Kabul');
+INSERT INTO country (name,capital) VALUES  ('Albania','Tirana');
+INSERT INTO country (name,capital) VALUES  ('Algeria','Algiers');
+INSERT INTO country (name,capital) VALUES  ('Andorra','Andorra la Vella');
+INSERT INTO country (name,capital) VALUES  ('Angola','Luanda');
+INSERT INTO country (name,capital) VALUES  ('Antigua  Barbuda','St. Johns');
+INSERT INTO country (name,capital) VALUES  ('Argentina','Buenos Aires');
+INSERT INTO country (name,capital) VALUES  ('Armenia','Yerevan');
+INSERT INTO country (name,capital) VALUES  ('Australia','Canberra');
+INSERT INTO country (name,capital) VALUES   ('Austria','Vienna');
